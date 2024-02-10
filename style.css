@@ -1,0 +1,56 @@
+html {
+    font-size: 16px;
+}
+
+#main {
+
+    margin: auto;
+    max-width: 1000px;
+    padding 10px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+/* 
+.background-image {
+    background-image: url(Images/abstract-design-background-smooth-flowing-lines.jpg); */
+
+body {
+    font-size: 23px;
+    line-height: 2rem;
+    text-align: center;
+    text-align: justify;
+    color: antiquewhite;
+    background-color: rgb(32, 32, 183);
+
+
+}
+
+#caption {
+    display: block;
+    margin: 5px;
+    padding 10px;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+#img {
+    display: block;
+    text-align: center;
+}
+
+.image-2 {
+    display: inline-block;
+    margin: 5px 15px 5px 13px;
+}
+
+footer {
+    font-size: .75rem;
+    text-align: center;
+    margin: 4px;
+    padding: 10px;
+}
